@@ -15,4 +15,4 @@ The intention is to show briefly how I conduct a data analysis project. The scri
 
 At the end of the script I save the results obtained in two csv files (each one for the two best predictive models) that go inside the "results" directory.
 
-                                                                                                    Author Brian Sosa
+### Author Brian Sosa
